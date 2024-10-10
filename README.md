@@ -1,6 +1,25 @@
-## Hi there 👋
+## # Olá, me chamo Claudio ! 
+## Bem vindo ao meu perfil GitHub 👋 
 
-<!--
+- 🔭 Atualmente estou trabalhando em uma grande empresa e tecnologia, onde comecei como QA e estou migrando para area de desenvolvimento front ...
+- 🌱 E atualmente estou aprendendo muito sobre angular e colocando em pratica tudo que tenho aprendido...
+- 👯 Aqui estou procurando colaborar em estudos e projeto que fiz desde automações de teste com Java em Mobile e Web, como tambem desenolvimento em angular...
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" />
+          
+## Contatos:
+
+<div>
+<a href = "mailto:soarescjunior@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/claudio-f-soares-jr-8ba1a283" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+          
+          
+
+
+<!-- Atualmente
 **soarescjunior/soarescjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
